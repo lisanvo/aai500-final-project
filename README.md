@@ -1,12 +1,20 @@
-# Our Project Title
+# Bike Sharing
 This project is a part of the AAI-500 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
 <br><br>**Project Status: ACTIVE**
 
-## Installation
+## Introduction
+The main purpose of this project is to _. Describe the goals of the project and potential impacts. Mention the needs/applications of your project clearly. Limit to one/two short paragraph(s).
+
+## Contributors
+- Lisa Vo
+- Angel Benitez
+- Zack Robertson
+
+## Local Installation
 Run the following command:
 
 ```
-git clone https://github.com/lisanvo/aai500-final-project.git
+git clone git@github.com:lisanvo/aai500-final-project.git
 ```
 
 To contribute to this project:
@@ -14,14 +22,10 @@ To contribute to this project:
 2. Push changes to your branch.
 3. Open a pull request and have team members do a code review.
 4. Merge PR after it is reviewed and approved.
-  
-## Project Intro/Objective
-The main purpose of this project is ________. Describe the goals of the project and potential impacts. Mention the needs/applications of your project clearly. Limit to one/two short paragraph(s). 
 
-## Contributors
-- Lisa Vo
-- Angel Benitez
-- Zack Robertson
+### Troubleshooting
+
+To learn how to generate and add an SSH key, go [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 ## Methods Used
 A few examples are:
