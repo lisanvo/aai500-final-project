@@ -1,9 +1,9 @@
-# Rental Bike Usage
+# Bike Sharing Usage
 This project is a part of the AAI-500 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
 <br><br>**Project Status: ACTIVE**
 
 ## Introduction
-For this project, we analyze rental bike usage count against season, temperature, and humidity to explain the likely causes of high rental bike usage within 2011-2012 using multiple linear regression with analysis of variance (ANOVA) testing. Our goal is to inform stakeholders who are interesting in . Limit to one/two short paragraph(s).
+For this project, we analyze bike sharing usage count against season, temperature, and humidity to explain the likely causes of high bike sharing usage in 2011-2012 using multiple linear regression with analysis of variance (ANOVA) testing. Our goal is to inform stakeholders who are interesting in expanding bike sharing to untapped markets.
 
 ## Contributors
 - Angel Benitez
