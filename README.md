@@ -3,7 +3,7 @@ This project is a part of the AAI-500 course in the Applied Artificial Intellige
 <br><br>**Project Status: ACTIVE**
 
 ## Introduction
-For this project, we analyze bike sharing usage count against season, temperature, and humidity to explain the likely causes of high bike sharing usage in 2011-2012 using multiple linear regression with analysis of variance (ANOVA) testing. Our goal is to inform stakeholders who are interesting in expanding bike sharing to untapped markets.
+For this project, we analyze bike sharing usage count against season, temperature, and humidity to explain the likely causes of high bike sharing usage between seasons in 2011-2012 using multiple linear regression with analysis of variance (ANOVA) testing. Our goal is to inform stakeholders who are interesting in expanding bike sharing to untapped markets.
 
 ## Contributors
 - Angel Benitez
@@ -48,4 +48,4 @@ To learn how to generate and add an SSH key, go [here](https://docs.github.com/e
     - statsmodels
 
 ## Project Description
-Discuss the details of project overview. Description your selected dataset, such as data source, number of variables, size of dataset, etc. Include data dictionary, if available.  Provide questions and hypothesis that you are exploring. What specific data analysis, visualization, and modeling work are you using to solve the problem? What roadblocks and challenges are you facing? etc. 
+We explore whether season had an impact on bike sharing usage in 2011-2012. If there is an effect, we analyze what are the likely causes that would lead one season having a higher bike sharing usage count than that of another season. We encode categorical columns and drop columns that are irrevelant in order to make our modeling more efficient and to reduce multicollinearity. We run simple and multiple linear regression with ANOVA testing to analyze our data. Forms of data visualization we use are scatterplots, correlation matrices, heat maps, box-plots, bar graphs, histograms, and violin plots. Our dataset can be found [here](https://archive.ics.uci.edu/dataset/275/bike+sharing+dataset). 
