@@ -1,6 +1,5 @@
 # Bike Sharing Usage
 This project is a part of the AAI-500 course in the Applied Artificial Intelligence Program at the University of San Diego (USD). 
-<br><br>**Project Status: ACTIVE**
 
 ## Project Description
 For this project, we explore whether season had an impact on bike sharing usage in 2011-2012. If there is an effect, we analyze what are the likely causes that would lead one season having a higher bike sharing usage count than that of another season. We encode categorical columns and drop columns that are irrevelant in order to make our modeling more efficient and to reduce multicollinearity. We run simple and multiple linear regression with ANOVA testing to analyze our data. Forms of data visualization we use are scatterplots, correlation matrices, heat maps, box-plots, bar graphs, histograms, and violin plots. 
